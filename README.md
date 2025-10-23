@@ -1,6 +1,6 @@
 # 🎥 distraction_free_youtube
 
-A simple and clean web page developedwith pure HTML that lets you watch **YouTube videos** without unnecessary distractions.  
+A simple and clean web page developed with pure HTML that lets you watch **YouTube videos** without unnecessary distractions.  
 Choose from **Music**, **Piano Instrumentals**, or **Coding** categories — each opens a focused environment to help you stay productive and relaxed.
 
 
